@@ -1,0 +1,1 @@
+java -Djava.util.logging.config.file=mylogging.properties -jar dist/TcpServer.jar TcpServerTest.Main 8001
